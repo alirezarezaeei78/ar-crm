@@ -1,24 +1,19 @@
-Retail teams manage more than leads. They manage the relationship between a customer, a purchase, a product, and the next conversation.
+Meet AR CRM — an open-source workspace built for retail.
 
-I’m open-sourcing AR CRM — a retail-focused CRM built to bring those pieces into one clear workspace.
+Swipe through the CRM: business overview, customer profiles, sales pipeline, and product catalog.
 
-What’s inside:
-• Customer profiles with purchase history, lifetime value, loyalty points, and notes
-• Visual sales pipelines with weighted forecasts
-• Orders, product catalogs, inventory, and reorder alerts
-• Team task boards and automated welcome, follow-up, and restock tasks
-• Customer segments and consent-aware campaign planning
-• Sales dashboards, store comparisons, and CSV exports
+• Know your customers: purchase history, loyalty, lifetime value, and notes
+• Move sales forward: visual pipelines, weighted forecasts, and team tasks
+• Connect retail operations: products, orders, inventory, and reorder alerts
+• Plan smarter: customer segments, consent-aware campaigns, reports, and workflow automations
 
-Built with Next.js, React, and TypeScript, with responsive layouts and 19 browser integration checks.
+Built with Next.js, React, and TypeScript. MIT licensed. Includes fictional sample data, build instructions, and 19 browser integration checks. Runs locally without API keys or an external database.
 
-It’s MIT licensed, includes fictional sample data, and runs locally without API keys or an external database.
+This release is a working local demo. Production authentication, multi-user storage, and email/SMS delivery still need integration.
 
-This release is a working local demo and a foundation to build on. Production authentication, multi-user storage, and email/SMS delivery still need integration.
-
-Explore the code, try the workflows, or help shape the next version:
+Code + setup guide:
 https://github.com/alirezarezaeei78/ar-crm
 
-Contributions and practical retail feedback are welcome.
+Try it, explore the workflows, and contribute. Practical retail feedback is welcome.
 
 #OpenSource #CRM #RetailTech #Nextjs #TypeScript
